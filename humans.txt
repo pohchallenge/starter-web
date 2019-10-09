@@ -8,7 +8,7 @@
     <name> -- <role> -- <twitter>
 
 # THANKS
-
+s is thomas modify
     <name>
 
 # TECHNOLOGY COLOPHON
