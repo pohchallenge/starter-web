@@ -11,3 +11,6 @@ Sample website with plenty of files for demos
 Adding a line for rebase
 
 more changes hahsss:a
+
+
+All rights reserved
